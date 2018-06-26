@@ -10,7 +10,7 @@
     "fetch": "~0.3.6",
     "node-read": "~0.1.6",
     "encoding": "~0.1.11",
-    "request": "~2.51.0",
+    "request": "~2.81.0",
     "sanitizer": "~0.1.2",
     "string": "~3.0.0",
     "validator": "~3.24.0"
